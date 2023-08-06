@@ -10,7 +10,9 @@ import './App.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <div style={{backgroundColor: '#efe3d0'}}>
+      <App />
+    </div>
   </React.StrictMode>
 );
 
