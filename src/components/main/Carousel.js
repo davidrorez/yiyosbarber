@@ -24,7 +24,7 @@ const carouselItems = [
 
 function CarouselFade() {
   return (
-    <Carousel fade indicators={false}>
+    <Carousel fade indicators={true}>
       {carouselItems.map((item, index) => (
         <Carousel.Item key={index}>
           <div className="App">
