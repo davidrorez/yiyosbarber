@@ -24,16 +24,13 @@ function Footer() {
               <h5>INFO</h5>
               <ul className='list-unstyled mb-0'>
                 <li>
-                  <a> Ubicación: Carillos, Alajuela.
-                  </a>
+                   Ubicación: Carillos, Alajuela.
                 </li>
                 <li>
-                  <a> Teléfono: 72599204
-                  </a>
+                   Teléfono: 72599204
                 </li>
                 <li>
-                  <a> Email: test@gmail.com
-                  </a>
+                  Email: test@gmail.com
                 </li>
               </ul>
             </MDBCol>
@@ -43,16 +40,13 @@ function Footer() {
 
               <ul className='list-unstyled mb-0'>
                 <li>
-                  <a> Producto 1
-                  </a>
+                  Producto 1
                 </li>
                 <li>
-                  <a> Producto 2
-                  </a>
+                  Producto 2
                 </li>
                 <li>
-                  <a> Producto 3
-                  </a>
+                  Producto 3
                 </li>
               </ul>
             </MDBCol>
@@ -62,17 +56,17 @@ function Footer() {
 
               <ul className='list-unstyled mb-0'>
                 <li>
-                  <a href='#!' >
+                  <a href='https://www.facebook.com/barberiayiyosoficial' >
                     Facebook
                   </a>
                 </li>
                 <li>
-                  <a href='#!'>
+                  <a href='https://www.instagram.com/barberia_yiyos/'>
                     Instagram
                   </a>
                 </li>
                 <li>
-                  <a href='#!' >
+                  <a href='https://wa.me/50672599204' >
                     Whatsapp
                   </a>
                 </li>
@@ -85,19 +79,13 @@ function Footer() {
 
               <ul className='list-unstyled mb-0'>
                 <li>
-                  <a>
-                    Lunes a Sabádo
-                  </a>
+                  Lunes a Sabádo
                 </li>
                 <li>
-                  <a>
-                    De 7 am a 9 pm
-                  </a>
+                  De 7 am a 9 pm
                 </li>
                 <li>
-                  <a>
-                    Domingo cerrado
-                  </a>
+                  Domingo cerrado
                 </li>
               </ul>
             </MDBCol>
