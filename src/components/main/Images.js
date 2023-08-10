@@ -2,7 +2,7 @@ import React from "react";
 
 function ImgBarber(props) {
   return (
-    <div className="col-md-6 mt-3">
+    <div className="col-md-6 p-2">
       <img
         src={props.imgBarber}
         className="img-fluid"

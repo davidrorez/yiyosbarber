@@ -1,5 +1,5 @@
 import React from 'react';
-import backgroundImage from '../../img/main_bg.jpg';
+import backgroundImage from '../../img/five_bg.jpg';
 
 function About() {
   return (
@@ -20,12 +20,17 @@ function About() {
           marginTop: '8vh'
         }}
       >
-        <div className="d-flex align-items-center justify-content-center" style={{ height: '100vh' }}>
-          <h1 className='text'>Descripcion de <br /> Yiyo's Barber Shop</h1>
+        <div className="d-flex align-items-center justify-content-center"
+          style={{ height: '100vh' }}>
+          <h4 className='text-white m-3'>En Yiyo's Barber, nos dedicamos a
+            transformar cada corte de cabello en una experiencia de confianza
+            y estilo. Nuestra misión es brindar un servicio excepcional que
+            refleje la individualidad de cada cliente, realzando su autoestima
+            y resaltando su autenticidad.
+          </h4>
         </div>
       </div>
     </div >
-
   );
 }
 

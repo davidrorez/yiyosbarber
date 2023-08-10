@@ -84,3 +84,7 @@
 .carousel-inner .active {
   opacity: 1;
 }
+
+.about-text-margin {
+  margin: 100px;
+}

@@ -29,7 +29,7 @@ function NavBar() {
               </Nav.Link>
             </Nav>
             <Nav className="navbar-nav ms-auto">
-              <Nav.Link as={Link} to="https://www.facebook.com/barberiayiyosoficial" target="_blank"
+              <Nav.Link as={Link} clas to="https://www.facebook.com/barberiayiyosoficial" target="_blank"
                 rel="noopener noreferrer"><img src={logoFb} alt="Logo"></img></Nav.Link>
               <Nav.Link as={Link} to="https://www.instagram.com/barberia_yiyos/" target="_blank"
                 rel="noopener noreferrer"><img src={logoInsta} alt="Logo"></img></Nav.Link>

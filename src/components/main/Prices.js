@@ -6,10 +6,9 @@ function App() {
     <div className="div-space">
       <h1 className='text-center'>
         <strong>
-          Nustros Servicios
+          Nuestros Servicios
         </strong>
       </h1>
-
       <div
         className="background-container"
         style={{
