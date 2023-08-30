@@ -5,7 +5,7 @@ import hc1 from '../../img/hc1.jpg';
 import hc2 from '../../img/hc2.jpg';
 import hc3 from '../../img/hc3.jpg';
 import hc4 from '../../img/hc4.jpg';
-import backgroundImage from '../../img/four_bg.png';
+import backgroundImage from '../../img/four_bg.jpg';
 
 function Haircut() {
   return (
